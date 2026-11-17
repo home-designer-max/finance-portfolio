@@ -1,0 +1,2 @@
+Future goal cost = today’s estimated cost × (1 + annual inflation)^(years until purchase)
+Monthly contribution = future goal cost ÷ [((1 + monthly return)^months − 1) ÷ monthly return]
